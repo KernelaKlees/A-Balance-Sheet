@@ -27,7 +27,7 @@ Project created as part of my front‑end practice to improve layout, structure 
 ---
 
 ## 📸 Preview
-![Balance Screenshot](balance.png)
+![balance Screenshot](balance.png)
 
 
 ---
